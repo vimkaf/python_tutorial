@@ -1,6 +1,3 @@
-from tkinter import S
-
-
 print ("ejike michael")
 """
 a program to calculate S.I(simple interest) 
