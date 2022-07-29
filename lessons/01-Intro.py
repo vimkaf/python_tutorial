@@ -33,6 +33,7 @@ print(firstname,lastname)
 
 #booleans - Boolean is a datatype that can only have true or false values
 status = True #1
+
 print(status)
 
 
