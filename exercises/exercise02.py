@@ -43,8 +43,7 @@ Write a program to find value 10 in the list, and if it is present,
 replace it with 100. Only update the first occurrence of an item.
 
 list1 = [5, 10, 15, 20, 25, 50, 10]
-
-Expected Output:
+#Expected Output:
 [5, 100, 15, 20, 25, 50, 100]
 
 Question 6
