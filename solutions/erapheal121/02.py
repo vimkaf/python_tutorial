@@ -22,7 +22,6 @@ print(list1)
 #question5
 list1 = [5, 10, 15, 20, 25, 50, 10]
 list1[1]= 100
-list1[5]= 100
 print(list1)
 
 
