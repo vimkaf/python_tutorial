@@ -43,6 +43,7 @@ print(shoppingList)
 #insert item to a list
 grades = ['A', 'B' , 'D' , 'E', 'F']
 grades.insert(2, 'C')
+print("grades")
 
 #remove an item from a list
 # print( shoppingList.pop() )
