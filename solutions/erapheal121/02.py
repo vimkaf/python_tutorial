@@ -31,3 +31,20 @@ list1.remove(20)
 list1.remove(20)
 list1.remove(20)
 print(list1)
+
+
+    if action == "+":
+        result= a+b 
+    elif action == "-":
+        result= a - b
+    elif action == "*":
+        result = a * b
+    elif action == "/":
+        result = a / b
+    elif action == "**":
+        result = a**b
+    else:
+        result = "Error"
+    
+
+return result
