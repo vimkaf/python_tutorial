@@ -12,6 +12,4 @@ addition = sum(a,b)
 
 x =  addition + 3
 
-
-
 print(x)
